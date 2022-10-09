@@ -9,4 +9,4 @@
 * ScrumMaster - Linkedin Learning
 * HTML - Linkedin Learning
 * CSS - Linkedin Learning
-* Fundamentos da Ciencia de Dados - Linkedin Learning
+* Fundamentos da Ciencia de Dados - Linkedin Learning [](/img/CertificadoDeConclusao_Fundamentos%20da%20Ciencia%20de%20Dados.pdf)
