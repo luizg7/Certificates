@@ -1,1 +1,1 @@
-![](https://i.imgur.com/419e9AT.png)
+![Certicado CSS](/img/CertificadoDeConclusao_Descubra_o_CSS.pdf)
