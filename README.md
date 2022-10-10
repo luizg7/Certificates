@@ -6,7 +6,7 @@
 * HTML & CSS Introduction - Savannah Technical College
 * Javascript - Savannah Technical College
 * HTML & CSS - Code Academy
-* ScrumMaster - Linkedin Learning ()[img/CertificadoDeConclusao_ScrumMaster]
-* HTML - Linkedin Learning ()[img/CertificadoDeConclusao_HTML_Formacao_Basica.pdf]
-* CSS - Linkedin Learning ()[/img/CertificadoDeConclusao_Descubra_o_CSS.pdf]
-* Fundamentos da Ciencia de Dados - Linkedin Learning ()[img/CertificadoDeConclusao_FundamentosdaCienciadeDados.pdf]
+* ScrumMaster - Linkedin Learning 
+* HTML - Linkedin Learning 
+* CSS - Linkedin Learning 
+* Fundamentos da Ciencia de Dados - Linkedin Learning [img](./img/CertificadoDeConclusao_FundamentosdaCienciadeDados.pdf)
