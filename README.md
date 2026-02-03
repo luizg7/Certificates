@@ -2,10 +2,7 @@
 
 **Course / Institution**
 
-* Algoritmos - Curso em video - [Link to Certificate](./doc/algoritmo-cursoemvideo.md)
-* [Go to](#algoritmos---curso-em-video)
-
-
+* Algoritmos - Curso em video - [Go to](#algoritmos---curso-em-video) - [Link to Certificate](./doc/algoritmo-cursoemvideo.md)
 * HTML & CSS Introduction - Savannah Technical College - [Link to Certificate](./doc/savannahcollege_htmlcss.md)
 * Javascript - Savannah Technical College - [Link to Certificate](./doc/savannah_college_web.md)
 * HTML & CSS - Code Academy - [Link to Certificate](./doc/codeacademy.md)
@@ -16,6 +13,4 @@
 * Fundamentos da Ciencia de Dados - Linkedin Learning [Link to Certificate](./img/CertificadoDeConclusao_FundamentosdaCienciadeDados.pdf)
 
 ## Algoritmos - Curso em video
-- [Link to Certificate](./doc/algoritmo-cursoemvideo.md)
-* * ![img](https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg)
-<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="500" height="500">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="800" height="800">
