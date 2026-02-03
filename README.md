@@ -25,7 +25,7 @@
 
 
 ## Javascript - SoloLearn - 
-<img src="./img/cert-1024-9538227.pdf" width="1000" height="1000">
+<iframe src="./img/cert-1024-9538227.pdf" width="800" height="600"></iframe>
 
 ## ScrumMaster - Linkedin Learning - 
 
