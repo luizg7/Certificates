@@ -22,8 +22,8 @@
 
 
 ## HTML & CSS - Code Academy - 
-<img src="./img/cert-1024-9538227.pdf" width="1000" height="1000">
-<img src="./img/cert-1024-9538227.jpg" width="1000" height="1000">
+<img src="/img/cert-1024-9538227.pdf" width="1000" height="1000">
+<img src="/img/cert-1024-9538227.jpg" width="1000" height="1000">
 
 ## Javascript - SoloLearn - 
 [![Certificate](./img/cert-1024-9538227.jpg)]
