@@ -4,7 +4,7 @@
 
 
 * Algoritmos - Curso em video - [Go to](#algoritmos---curso-em-video) - [Link to Certificate](./doc/algoritmo-cursoemvideo.md)
-* HTML & CSS Introduction - Savannah Technical College - [Go to](#html-&-css-introduction---savannah-technical-college) - [Link to Certificate](./doc/savannahcollege_htmlcss.md)
+* HTML & CSS Introduction - Savannah Technical College - [Go to](#HTML-&-CSS-Introduction---Savannah-Technical-College) - [Link to Certificate](./doc/savannahcollege_htmlcss.md)
 * Javascript - Savannah Technical College - [Go to](#javascript---savannah-technical-college) - [Link to Certificate](./doc/savannah_college_web.md)
 * HTML & CSS - Code Academy - [Go to](#html--css---code-academy) - [Link to Certificate](./doc/codeacademy.md)
 * JavaScript - SoloLearn - [Go to](#javascript---sololearn) - [Link to Certificate](./doc/sololearn_javascript.md)
