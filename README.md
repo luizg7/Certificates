@@ -39,5 +39,17 @@
 
 ## Fundamentos da Ciência de Dados - Linkedin Learning -
 
+## Algoritmos - Curso em video
+<img src="./img/algoritmos.jpg" width="500">
+
+## HTML & CSS Introduction - Savannah Technical College
+[View certificate](./doc/savannahcollege_htmlcss.md)
+
+## HTML & CSS - Code Academy
+[![Certificate](./img/cert-1024-9538227.jpg)](./img/cert-1024-9538227.pdf)
+
+## Javascript - SoloLearn
+[![Certificate](./img/cert-1024-9538227.jpg)](./img/cert-1024-9538227.pdf)
+
 
 
