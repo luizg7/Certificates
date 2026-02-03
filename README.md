@@ -17,27 +17,35 @@ ___
 
 ## Algoritmos - Curso em video
 <img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## HTML & CSS Introduction - Savannah Technical College
 <img src="./doc/savannahcollege_htmlcss.md" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## Javascript - Savannah Technical College
 <img src="" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## HTML & CSS - Code Academy
 <img src="/img/cert-1024-9538227.jpg" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## Javascript - SoloLearn
 <img src="" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## ScrumMaster - Linkedin Learning
 <img src="" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## HTML - Linkedin Learning
 <img src="" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## CSS - Linkedin Learning
 <img src="" width="1000" height="1000">
+[Go Back](#certificates)
 
 ## Fundamentos da Ciência de Dados - Linkedin Learning
 <img src="" width="1000" height="1000">
