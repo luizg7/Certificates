@@ -50,6 +50,7 @@
 
 ## Javascript - SoloLearn
 [![Certificate](./img/cert-1024-9538227.jpg)](./img/cert-1024-9538227.pdf)
+![test](./img/cert-1024-9538227.jpg)
 
 
 
