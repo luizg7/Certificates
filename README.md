@@ -23,7 +23,7 @@ ___
 [Go Back](#certificates)
 
 ## A2 Technical English for Developers - FreeCodeCamp
-<img src="https:://github.com/luizg7/Certicates/blob/master/img/cert-a2-english-freecodecamp.png" width="1000" height="1000">
+<img src="https://github.com/luizg7/Certicates/blob/master/img/cert-a2-english-freecodecamp.jpg" width="1000" height="1000">
 
 [Go Back](#certificate)
 
