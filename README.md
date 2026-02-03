@@ -11,3 +11,4 @@
 * HTML - Linkedin Learning - [Link to Certificate](./img/CertificadoDeConclusao_HTML%20Formacao%20Basica.pdf)
 * CSS - Linkedin Learning - [Link to Certificate](./img/CertificadoDeConclusao_Descubra_o_CSS.pdf)
 * Fundamentos da Ciencia de Dados - Linkedin Learning [Link to Certificate](./img/CertificadoDeConclusao_FundamentosdaCienciadeDados.pdf)
+
