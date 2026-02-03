@@ -4,7 +4,7 @@
 
 
 * Algoritmos - Curso em video - [Go to](#algoritmos---curso-em-video) - [Certificate](./doc/algoritmo-cursoemvideo.md)
-* A2 Technical English - FreeCodeCamp - [Go to](#a2-technical-english-for-developers---freecodecamp) - [Certificate](.img/cert-a2-english-freecodecamp.jpg)
+* A2 Technical English - FreeCodeCamp - [Go to](#a2-technical-english-for-developers---freecodecamp) - [Certificate](./img/cert-a2-english-freecodecamp.jpg)
 * Algoritmos - Guanabara - [Go to](#algoritmos---guanabara) - [Certificate]()
 * HTML & CSS Introduction - Savannah Technical College - [Go to](#html--css-introduction---savannah-technical-college) - [Certificate](./doc/savannahcollege_htmlcss.md)
 * Javascript - Savannah Technical College - [Go to](#javascript---savannah-technical-college) - [Certificate](./doc/savannah_college_web.md)
