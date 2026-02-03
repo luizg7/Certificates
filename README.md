@@ -14,4 +14,4 @@
 * Fundamentos da Ciencia de Dados - Linkedin Learning [Link to Certificate](./img/CertificadoDeConclusao_FundamentosdaCienciadeDados.pdf)
 
 * * ![img](https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg)
-<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="300" height="2">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="300" height="200">
