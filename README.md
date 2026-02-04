@@ -38,7 +38,7 @@ ___
 [Go Back](#certificates)
 
 ## Javascript - Savannah Technical College
-<img src="https://github.com/luizg7/certificates/blob/master/img/cert-javascript-savannahcollege.jpg" width="800" height="800">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-javascript-savannahcollege.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
