@@ -33,7 +33,7 @@ ___
 [Go Back](#certificates)
 
 ## HTML & CSS - Savannah Technical College
-<img src="https://github.com/luzig7/certificates/blob/master/img/cert-htmlcss-savannahcollege.jpg" width="800" height="800">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-htmlcss-savannahcollege.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
