@@ -6,7 +6,7 @@
 * Algoritmos - Curso em video - [Go to](#algoritmos---curso-em-video) - [Certificate](./doc/algoritmo-cursoemvideo.md)
 * A2 Technical English - FreeCodeCamp - [Go to](#a2-technical-english-for-developers---freecodecamp) - [Certificate](./img/cert-a2-english-freecodecamp.jpg)
 * Algoritmos - Guanabara - [Go to](#algoritmos---guanabara) - [Certificate](./img/certificadoalgoritmoscursoemvideo.jpg)
-* HTML & CSS Introduction - Savannah Technical College - [Go to](#html--css-introduction---savannah-technical-college) - [Certificate](./doc/savannahcollege_htmlcss.md)
+* HTML & CSS - Savannah Technical College - [Go to](#html--css---savannah-technical-college) - [Certificate](./doc/savannahcollege_htmlcss.md)
 * Javascript - Savannah Technical College - [Go to](#javascript---savannah-technical-college) - [Certificate](./doc/savannah_college_web.md)
 * HTML & CSS - Code Academy - [Go to](#html--css---code-academy) - [Certificate](./doc/codeacademy.md)
 * JavaScript - SoloLearn - [Go to](#javascript---sololearn) - [Certificate](./doc/sololearn_javascript.md)
@@ -18,27 +18,27 @@
 ___
 
 ## Algoritmos - Curso em video
-<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="1000" height="1000">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## A2 Technical English for Developers - FreeCodeCamp
-<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-a2-english-freecodecamp.jpg" width="1000" height="1000">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-a2-english-freecodecamp.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## Algoritmos - Guanabara
-<img src="https://github.com/luizg7/Certificates/blob/master/img/certificadoalgoritmoscursoemvideo.jpg" width="1000" height="1000">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/certificadoalgoritmoscursoemvideo.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
-## HTML & CSS Introduction - Savannah Technical College
-<img src="./doc/savannahcollege_htmlcss.md" width="1000" height="1000">
+## HTML & CSS - Savannah Technical College
+<img src="" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## Javascript - Savannah Technical College
-<img src="" width="1000" height="1000">
+<img src="" width="800" height="800">
 
 [Go Back](#certificates)
 
