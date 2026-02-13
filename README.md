@@ -53,22 +53,22 @@ ___
 [Go Back](#certificates)
 
 ## ScrumMaster - Linkedin Learning
-<img src="" width="1000" height="1000">
+<img src="img\CertificadoDeConclusao_ScrumMaster Caracteristicas e Responsabilidades na Gestao de Projetos_page-0001.jpg" width="1000" height="1000">
 
 [Go Back](#certificates)
 
 ## HTML - Linkedin Learning
-<img src="" width="1000" height="1000">
+<img src="img\cert-html-linkedin.jpg" width="1000" height="1000">
 
 [Go Back](#certificates)
 
 ## CSS - Linkedin Learning
-<img src="" width="1000" height="1000">
+<img src="img\cert-css-linkedin.jpg" width="1000" height="1000">
 
 [Go Back](#certificates)
 
 ## Fundamentos da Ciência de Dados - Linkedin Learning
-<img src="" width="1000" height="1000">
+<img src="img\cert-fundamentos-da-ciencia-de-dados.jpg" width="1000" height="1000">
 
 [Go Back](#certificates)
 
