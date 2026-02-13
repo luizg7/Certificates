@@ -18,27 +18,27 @@
 ___
 
 ## Algoritmos - Curso em video
-<img src="https://github.com/luizg7/Certificates/blob/master/img/algoritmos.jpg" width="800" height="800">
+<img src="https://github.com/luizg7/certificates/blob/master/img/algoritmos.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## A2 Technical English for Developers - FreeCodeCamp
-<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-a2-english-freecodecamp.jpg" width="800" height="800">
+<img src="https://github.com/luizg7/certificates/blob/master/img/cert-a2-english-freecodecamp.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## Algoritmos - Guanabara
-<img src="https://github.com/luizg7/Certificates/blob/master/img/certificadoalgoritmoscursoemvideo.jpg" width="800" height="800">
+<img src="https://github.com/luizg7/certificates/blob/master/img/certificadoalgoritmoscursoemvideo.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## HTML & CSS - Savannah Technical College
-<img src="" width="800" height="800">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-htmlcss-savannahcollege.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
 ## Javascript - Savannah Technical College
-<img src="" width="800" height="800">
+<img src="https://github.com/luizg7/Certificates/blob/master/img/cert-javascript-savannahcollege.jpg" width="800" height="800">
 
 [Go Back](#certificates)
 
